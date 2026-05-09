@@ -7,7 +7,7 @@
 
 ## Gap Assessment Matrix
 
-| CSF Function | Subcategory ID | Title (abbreviated) | Status | Evidence Reference | Gap Severity | Gap Description |
+| CSF Function | Subcategory ID | Subcategory title | Implementation status | Evidence reference | Gap severity | Gap description |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | GOVERN | GV.OC-01 | Org risk strategy established | Partial | riskregisterupdates.yaml | High | Risk register exists and is updated post-incident; no board-approved risk appetite statement |
 | GOVERN | GV.PO-01 | Cybersecurity policy established | Not Implemented | None | Critical | No written AUP or data classification policy; verbal policy is not auditable |
