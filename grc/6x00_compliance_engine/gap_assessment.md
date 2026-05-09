@@ -1,4 +1,5 @@
 # NIST CSF 2.0 Gap Assessment: MedDefense Health Systems
+
 **Assessment date:** 2026-05-10
 **Assessor:** [Student Name]
 **Framework version:** NIST CSF 2.0
@@ -6,7 +7,7 @@
 
 ## Gap Assessment Matrix
 
-| CSF Function | Subcategory | Title (abbreviated) | Status | Evidence Reference | Gap Severity | Gap Description |
+| CSF Function | Subcategory ID | Title (abbreviated) | Status | Evidence Reference | Gap Severity | Gap Description |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | GOVERN | GV.OC-01 | Org risk strategy established | Partial | riskregisterupdates.yaml | High | Risk register exists and is updated post-incident; no board-approved risk appetite statement |
 | GOVERN | GV.PO-01 | Cybersecurity policy established | Not Implemented | None | Critical | No written AUP or data classification policy; verbal policy is not auditable |
