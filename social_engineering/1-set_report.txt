@@ -4,4 +4,5 @@
     <url>URL=http://demo.testfire.net/login.jsp</url>
     <url>      <param>uid=admin_test</param></url>
     <url>      <param>passw=Password1!</param></url>
+    <url>      <param>btnSubmit=Login</param></url>
 </harvester>
