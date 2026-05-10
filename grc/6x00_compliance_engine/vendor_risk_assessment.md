@@ -41,7 +41,7 @@
 **Approve with Conditions**
 The core service architecture (AES-256, TLS 1.2, MFA) and the active SOC 2 Type II report indicate a fundamentally sound security posture. However, the operational SLAs (penetration testing cadence, patching timelines, and incident notification) fall below MedDefense's strict Tier A regulatory requirements. Do not sign the contract until these specific gaps are closed.
 
-## Required conditions
+## Contract conditions
 1. Vendor must provide a penetration test report dated within the last 12 months and evidence that all critical findings identified therein have been remediated, prior to any ePHI access.
 2. Vendor must formally disclose the geographic location of all Disaster Recovery facilities storing MedDefense data.
 3. Vendor must sign a contractual addendum explicitly agreeing to a 24-hour incident notification SLA.
