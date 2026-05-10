@@ -37,7 +37,7 @@ Highly sensitive data subject to the HIPAA Security Rule and Breach Notification
 | Tier 4 | AES-256 encrypted databases with strict IAM | TLS 1.2 or higher with server certificate verification | Role-based clinical portals | Encrypted portal with approved BAA | NIST SP 800-88 media sanitization or equivalent for electronic media; secure cross-cut shred for paper |
 
 ## Classification responsibility
-The data owner or creator classifies data at the time of creation. If the classification level is unclear, the data defaults to Tier 3 until formally reviewed. Only the IT Security department, in consultation with the Data Owner, holds the authority to reclassify data.
+The data owner or creator classifies data at the time of creation. If the classification level is unclear, the data defaults to Tier 3 until reviewed. Only the IT Security department, in consultation with the Data Owner, holds the authority to reclassify data.
 
 ## Exceptions process
 Exceptions to this policy must be formally granted by the CISO. All exceptions are documented in the IT Security risk register with a valid business justification. The maximum duration before re-review for any exception is 90 days.
