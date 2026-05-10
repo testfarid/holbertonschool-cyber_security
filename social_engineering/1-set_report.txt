@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding='UTF-8'?>
-<set_report>
+<harvester>
     <attack_type>Credential Harvester</attack_type>
     <date>2026-05-11 14:03:43.436786</date>
     <target_url>http://demo.testfire.net/login.jsp</target_url>
@@ -18,4 +18,4 @@
             </captured_data>
         </victim>
     </results>
-</set_report>
+</harvester>
