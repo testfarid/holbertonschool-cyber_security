@@ -20,7 +20,7 @@ Vendors are categorized into three tiers based on access and data exposure:
 Tier A vendors must provide all of the following before any data access is permitted:
 * SOC 2 Type II report or HITRUST CSF certification, current within 12 months.
 * Completed MedDefense vendor security questionnaire.
-* Penetration test results dated within 12 months, with a summary of critical findings and remediation status.
+* Recent penetration test results dated within 12 months, with a summary of critical findings and remediation status.
 * Identification of all sub-processors that will handle MedDefense data, with their jurisdictions.
 * An executed Business Associate Agreement before any ePHI access begins, with no exceptions.
 
