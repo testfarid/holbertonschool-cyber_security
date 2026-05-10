@@ -31,10 +31,10 @@ Highly sensitive data subject to the HIPAA Security Rule and Breach Notification
 
 | Tier | Storage | Transmission | Internal sharing | External sharing | Disposal |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Tier 1 | Standard network drives | Standard HTTP or SMTP | Standard email | Public website posting | Standard recycle bin |
-| Tier 2 | Internal access-controlled SharePoint | SMTP over TLS 1.2 | Internal email only | Not permitted without approval | Standard logical delete |
-| Tier 3 | AES-256 encrypted file servers | TLS 1.2 or higher with server certificate verification | Encrypted internal messaging | Secure portal with active NDA | Secure software wiping |
-| Tier 4 | AES-256 encrypted databases with strict IAM | TLS 1.2 or higher with server certificate verification | Role-based clinical portals | Encrypted portal with approved BAA | NIST SP 800-88 media sanitization or equivalent for electronic media; secure cross-cut shred for paper |
+| Tier 1 | Public read-only network drives with IT-managed write access controls | Standard HTTP or SMTP | Standard email | Public website posting | Standard recycle bin |
+| Tier 2 | Internal access-controlled SharePoint authenticated via Active Directory | SMTP over TLS 1.2 | Internal MedDefense email restricted to @meddefense.com domains | Not permitted without explicit departmental director approval | Standard logical delete |
+| Tier 3 | AES-256 encrypted file servers with Quarterly Access Reviews (QAR) required | TLS 1.2 or higher with server certificate verification | Encrypted internal messaging restricted by role | Secure portal with active NDA signed by Legal department | Secure software wiping |
+| Tier 4 | AES-256 encrypted databases with strict IAM and MFA enforced | TLS 1.2 or higher with server certificate verification | Role-based clinical portals with active audit logging | Encrypted portal via formal BAA signed by Legal and CISO | NIST SP 800-88 media sanitization or equivalent for electronic media; secure cross-cut shred for paper |
 
 ## Classification responsibility
 The data owner or creator classifies data at the time of creation. If the classification level is unclear, the data defaults to Tier 3 until reviewed. Only the IT Security department, in consultation with the Data Owner, holds the authority to reclassify data.
