@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<set_report>
+    <attack_type>Credential Harvester</attack_type>
+    <date>2026-05-11 14:03:43.436786</date>
+    <target_url>http://demo.testfire.net/login.jsp</target_url>
+    <results>
+        <victim>
+            <ip_address>192.168.50.10</ip_address>
+            <captured_data>
+                <field>
+                    <name>uid</name>
+                    <value>admin_test</value>
+                </field>
+                <field>
+                    <name>passw</name>
+                    <value>Password1!</value>
+                </field>
+            </captured_data>
+        </victim>
+    </results>
+</set_report>
