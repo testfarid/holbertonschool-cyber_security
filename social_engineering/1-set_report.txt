@@ -2,7 +2,7 @@
 <harvester>
     <attack_type>Credential Harvester</attack_type>
     <date>2026-05-11 14:03:43.436786</date>
-    <target_url>http://demo.testfire.net/login.jsp</target_url>
+    <url>URL=http://demo.testfire.net/login.jsp</url>
     <results>
         <victim>
             <ip_address>192.168.50.10</ip_address>
