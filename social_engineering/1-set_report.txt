@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding='UTF-8'?>
 <set_report>
     <attack_type>Credential Harvester</attack_type>
     <date>2026-05-11 14:03:43.436786</date>
