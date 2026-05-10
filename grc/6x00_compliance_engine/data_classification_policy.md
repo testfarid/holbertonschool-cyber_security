@@ -13,19 +13,19 @@ This policy establishes a standardized framework for categorizing and protecting
 
 **Tier 1: Public**
 Data approved for release to the general public.
-*Examples:* MedDefense public website content, marketing brochures, published clinic hours.
+*Examples:* MedDefense outpatient clinic operational hours, general patient visitor guidelines, MedDefense outward-facing provider directory.
 
 **Tier 2: Internal**
 Data for MedDefense employees and authorized contractors only. Unauthorized exposure causes operational inconvenience, not regulatory or patient harm.
-*Examples:* Internal company newsletters, cafeteria menus, generic IT onboarding guides.
+*Examples:* MedDefense clinical shift rotation templates, non-clinical facility maintenance schedules, internal nursing staff meeting minutes.
 
 **Tier 3: Confidential**
 Data where exposure could cause financial, legal, or reputational harm. Includes employee records, financial data, contracts, strategic plans, security configurations.
-*Examples:* Staff salary reports, vendor service level agreements, network topology maps.
+*Examples:* CloudVault backup vendor SLAs, MedDefense clinical procurement contracts, internal hospital network topology maps.
 
 **Tier 4: Restricted / ePHI**
 Highly sensitive data subject to the HIPAA Security Rule and Breach Notification Rule. Any unauthorized access triggers the four-factor breach risk assessment.
-*Examples:* Patient medical records, laboratory test results, clinical imaging data.
+*Examples:* Nexus EHR system patient databases, MedDefense clinical imaging (PACS) archives, attending physician surgical notes.
 
 ## Handling matrix
 
